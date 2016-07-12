@@ -7,6 +7,8 @@
       </testcase>
       <testcase component="Crosswalk Use Cases/RealSense" execution_type="manual" id="PhotoSet" platform="windows" priority="P0" purpose="PhotoSet Test" status="approved" type="functional_positive">
       </testcase>
+      <testcase component="Crosswalk Use Cases/RealSense" execution_type="manual" id="GetVolumePreview" platform="windows" priority="P0" purpose="GetVolumePreview Test" status="approved" type="functional_positive">
+      </testcase>
     </set>
   </suite>
 </test_definition>

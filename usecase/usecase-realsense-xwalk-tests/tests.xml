@@ -7,6 +7,8 @@
       </testcase>
       <testcase component="Crosswalk Use Cases/RealSense" execution_type="manual" id="PhotoSet" purpose="PhotoSet Test">
       </testcase>
+      <testcase component="Crosswalk Use Cases/RealSense" execution_type="manual" id="GetVolumePreview" purpose="GetVolumePreview Test">
+      </testcase>
     </set>
   </suite>
 </test_definition>
